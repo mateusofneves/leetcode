@@ -12,6 +12,7 @@ Repositório com minhas soluções de problemas do LeetCode em C++.
 | 9 | Palindrome Number | [C++](https://github.com/mateusofneves/leetcode/blob/main/leetcode/PalindromeNumber.cpp) |
 | 13 | Roman to Integer | [C++](https://github.com/mateusofneves/leetcode/blob/main/leetcode/RomanToInteger.cpp) |
 | 20 | Valid Parentheses | [C++](https://github.com/mateusofneves/leetcode/blob/main/leetcode/ValidParentheses.cpp) |
+| 26 | Remove Duplicates from Sorted | [C++](https://github.com/mateusofneves/leetcode/blob/main/leetcode/RemoveDuplicatesFromSorted.cpp) |
 | 66 | Plus One | [C++](https://github.com/mateusofneves/leetcode/blob/main/leetcode/PlusOne.cpp) |
 | 217 | Contains Duplicate | [C++](https://github.com/mateusofneves/leetcode/blob/main/leetcode/ContainsDuplicate.cpp) |
 | 2235 | Add Two Integers | [C++](https://github.com/mateusofneves/leetcode/blob/main/leetcode/AddTwoIntegers.cpp) |
